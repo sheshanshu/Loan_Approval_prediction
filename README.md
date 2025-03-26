@@ -24,8 +24,7 @@ The dataset includes:
 5. **Evaluation:** Accuracy, Precision, Recall, and F1-Score  
 
 ## 📈 Results  
-- Best model: **[Insert Best Model Name]**  
-- Accuracy achieved: **[Insert Accuracy]**  
+- Accuracy achieved: **[86%]**  
 
 ## 🔥 How to Use  
 1. Clone the repository:  
